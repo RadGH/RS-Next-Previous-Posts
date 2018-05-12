@@ -1,4 +1,4 @@
-RS Next/Previous Posts
+RS Next and Previous Posts
 ==
 
 _Adds next and previous posts links with thumbnails, titles, and excerpts at the end of your post content._
